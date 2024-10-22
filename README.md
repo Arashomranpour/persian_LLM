@@ -13,23 +13,15 @@ This repository contains work related to building and experimenting with Persian
 - HuggingFace Transformers
 - PyTorch or TensorFlow (based on backend)
 - Jupyter Notebook
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Arashomranpour/persian_LLM.git
-   cd persian_LLM
-2. install dependencies
-   ```bash
-  pip install transformers torch jupyter
-3. open jupyter
-  ```bash
-  jupyter notebook huggingface.ipynb
-
 ## Usage
 The notebook walks through the process of:
 
 Loading a pretrained model from HuggingFace.
 Fine-tuning the model on Persian text.
 Evaluating the model using provided datasets.
+
+
+
+
+
+
